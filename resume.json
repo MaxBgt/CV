@@ -1,0 +1,128 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Maxime Bignolet",
+    "label": "Web Developper",
+    "email": "maxime.bignolet@gmail.com",
+    "phone": "(+33)6-11-14-44-51",
+    "url": "https://maxime-bignolet-portfolio-en.netlify.app/",
+    "summary": "I am a 24-year-old resident of France who started learning web development in August 2021. In 2023, I successfully completed an equivalent of a Higher National Diploma in Web Development through OpenclassRooms. With my educational background and hands-on experience, I have acquired a variety of skills and knowledge in web development. I am confident that my skills and experience make me a strong candidate for related job positions.",
+    "location": {
+      "address": "6 impasse de la poste",
+      "postalCode": "58000",
+      "city": "Challuy",
+      "countryCode": "Fr",
+      "region": "Bourgogne"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "MaxBgt",
+        "url": "https://github.com/MaxBgt"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/maxime-bignolet-8228bb219/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ASEPT B/FC",
+      "location": "Besançon, FR",
+      "position": "Project Manager in Health Prevention",
+      "startDate": "2021-09",
+      "endDate": "2022-12-31",
+      "summary": "The Association for Health, Education and Prevention in Territories in Franche-Comté was created in December 2007. Since June 13th, 2013, the association has expanded to become ASEPT FRANCHE-COMTÉ / BOURGOGNE. The association aims to promote actions in the fields of prevention and health education, specifically targeted towards individuals living in rural areas. This includes conducting health education and prevention programs, providing the necessary resources and communication, and developing partnerships in these areas. Additionally, the association focuses on building local connections between individuals in order to share information and knowledge about prevention and health education, guided by the values of solidarity and responsibility"
+    },
+    {
+      "name": "McDonald's",
+      "location": "Villeneuve-sur-lot, FR",
+      "position": "Multitask Crew Member",
+      "startDate": "2019-09",
+      "endDate": "2021-07",
+      "summary": "I worked as a multitask crew member in fast food while pursuing my higher education."
+    },
+    {
+      "name": "McDonald's",
+      "location": "Marzy, FR",
+      "position": "Multitask Crew Member",
+      "startDate": "2017-09",
+      "endDate": "2019-07",
+      "summary": "I worked as a multitask crew member in fast food while pursuing my studies."
+    }
+  ],
+  "education": [
+    {
+      "institution": "OpenclassRooms",
+      "url": "https://openclassrooms.com/fr/",
+      "area": "Information Technology",
+      "studyType": "Higher Technician's Certificate",
+      "startDate": "2023-02-02",
+      "courses": ["HTML", "CSS", "Javascripte", "React", "NodeJs", "ExpressJs"]
+    },
+    {
+      "institution": "L'Oustal High School",
+      "area": "Development of rural areas",
+      "studyType": "Higher Technician's Certificate",
+      "startDate": "2019-09",
+      "endDate": "2021-06"
+    },
+    {
+      "institution": "L'Oustal High School",
+      "area": "Technological Baccalaureate in Health and Social Sciences",
+      "studyType": "French high school diploma",
+      "startDate": "2017-09",
+      "endDate": "2018-06"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "100%",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "Javascript",
+      "level": "80%",
+      "keywords": ["Javascript", "React", "NextJs"]
+    },
+    {
+      "name": "CSS",
+      "level": "90%",
+      "keywords": ["Javascript", "React", "NextJs"]
+    },
+    {
+      "name": "NextJs",
+      "level": "60%",
+      "keywords": ["Javascript", "React", "NextJs"]
+    },
+    {
+      "name": "React",
+      "level": "70%",
+      "keywords": ["Javascript", "React", "NextJs"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
