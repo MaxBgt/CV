@@ -67,13 +67,6 @@
       "studyType": "Higher Technician's Certificate",
       "startDate": "2019-09",
       "endDate": "2021-06"
-    },
-    {
-      "institution": "L'Oustal High School",
-      "area": "Technological Baccalaureate in Health and Social Sciences",
-      "studyType": "French high school diploma",
-      "startDate": "2017-09",
-      "endDate": "2018-06"
     }
   ],
 
@@ -90,6 +83,11 @@
     },
     {
       "name": "CSS",
+      "level": "90%",
+      "keywords": ["Javascript", "React", "NextJs"]
+    },
+    {
+      "name": "SCSS",
       "level": "90%",
       "keywords": ["Javascript", "React", "NextJs"]
     },
